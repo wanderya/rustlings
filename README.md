@@ -1,6 +1,6 @@
 # Rustlings for OS Training Camp 2022
 
-+ 本次完成的所有练习均在`[./exercises](./exercises/)`文件夹下
++ 本次完成的所有练习均在[./exercises](./exercises/)文件夹下
 
 # Rustlings README
 
