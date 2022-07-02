@@ -10,10 +10,10 @@
 | move_semantics         | :heavy_check_mark: |
 | primitive_types        | :heavy_check_mark: |
 | structs                | :heavy_check_mark: |
-| enums                  | - |
-| modules                | - |
-| collections            | - |
-| strings                | - |
+| enums                  | :heavy_check_mark: |
+| modules                | :heavy_check_mark: |
+| collections            | :heavy_check_mark: |
+| strings                | :heavy_check_mark: |
 | error_handling         | - |
 | generics               | - |
 | option                 | - |
