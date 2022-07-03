@@ -14,11 +14,11 @@
 | modules                | :heavy_check_mark: |
 | collections            | :heavy_check_mark: |
 | strings                | :heavy_check_mark: |
-| error_handling         | - |
-| generics               | - |
-| option                 | - |
-| traits                 | - |
-| tests                  | - |
+| error_handling         | :heavy_check_mark: |
+| generics               | :heavy_check_mark: |
+| option                 | :heavy_check_mark: |
+| traits                 | :heavy_check_mark: |
+| tests                  | :heavy_check_mark: |
 | standard_library_types | - |
 | threads                | - |
 | macros                 | - |
