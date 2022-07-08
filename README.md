@@ -19,11 +19,11 @@
 | option                 | :heavy_check_mark: |
 | traits                 | :heavy_check_mark: |
 | tests                  | :heavy_check_mark: |
-| standard_library_types | - |
-| threads                | - |
-| macros                 | - |
-| clippy                 | - |
-| conversions            | - |
+| standard_library_types | :heavy_check_mark: |
+| threads                | :heavy_check_mark: |
+| macros                 | :heavy_check_mark: |
+| clippy                 | :heavy_check_mark: |
+| conversions            | :heavy_check_mark: |
 
 
 # Rustlings README

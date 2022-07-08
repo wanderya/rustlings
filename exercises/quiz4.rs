@@ -5,7 +5,21 @@
 
 // Write a macro that passes the quiz! No hints this time, you can do it!
 
-// I AM NOT DONE
+
+mod macros {
+    #[macro_export]
+    macro_rules! my_macro {
+        ($($x:expr), *) => {
+            {
+                let mut temp_s = String::from("Hello ");
+                $(
+                    temp_s.push_str($x);
+                )*
+                temp_s
+            }
+        }
+    }
+}
 
 #[cfg(test)]
 mod tests {
