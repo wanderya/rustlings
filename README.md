@@ -24,6 +24,7 @@
 | macros                 | :heavy_check_mark: |
 | clippy                 | :heavy_check_mark: |
 | conversions            | :heavy_check_mark: |
+| advance_errors         | :heavy_check_mark: |
 
 
 # Rustlings README
